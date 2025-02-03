@@ -42,13 +42,14 @@
 <h2 align='center'>
   🎓 Certificates
 </h2>
-<p align='center'>
-<a href="https://www.freecodecamp.org/certification/BenMilton/foundational-c-sharp-with-microsoft"><img src="https://raw.githubusercontent.com/dotnet/vscode-csharp/main/images/csharpIcon.png" alt="Foundational C# with Microsoft" style="width:120px;height:120px;"></a>
-<a href="https://www.credly.com/badges/3c3574aa-1882-43f9-a0b9-5c2fecc012df/public_url"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" style="width:120px;height:120px;"></a>
-<a href="https://learn.microsoft.com/en-us/users/bengaming/credentials/645276b792840b67"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals" style="width:120px;height:120px;"></a>
-<a href="https://www.credly.com/badges/91e39c1e-45a4-4f58-b145-4c159a4bb58f"><img src="https://images.credly.com/images/b928d7fa-5379-4f29-8039-8bef0d09f53a/Associate_Badge_-_PowerEdge.png" alt="Associate - PowerEdge Version 2.0" style="width:120px;height:120px;"></a>
-<a href="https://www.credly.com/badges/db5a7055-f00a-4700-8e56-79f807342c4f"><img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="Fortinet Certified Associate Cybersecurity" style="width:120px;height:120px;"></a>
-<a href="https://www.credly.com/badges/2ecc4184-92cd-4b72-a367-3ca235f807fb"><img src="https://images.credly.com/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png" alt="Fortinet FortiGate 7.4 Operator" style="width:120px;height:120px;"></a>
+  <p align='center'>
+  <a href="https://www.freecodecamp.org/certification/BenMilton/foundational-c-sharp-with-microsoft"><img src="https://raw.githubusercontent.com/dotnet/vscode-csharp/main/images/csharpIcon.png" alt="Foundational C# with Microsoft" style="width:120px;height:120px;"></a>
+  <a href="https://www.credly.com/badges/3c3574aa-1882-43f9-a0b9-5c2fecc012df/public_url"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" style="width:120px;height:120px;"></a>
+  <a href="https://learn.microsoft.com/en-us/users/bengaming/credentials/645276b792840b67"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals" style="width:120px;height:120px;"></a>
+  <a href="https://www.credly.com/badges/91e39c1e-45a4-4f58-b145-4c159a4bb58f"><img src="https://images.credly.com/images/b928d7fa-5379-4f29-8039-8bef0d09f53a/Associate_Badge_-_PowerEdge.png" alt="Associate - PowerEdge Version 2.0" style="width:120px;height:120px;"></a>
+  <a href="https://www.credly.com/badges/db5a7055-f00a-4700-8e56-79f807342c4f"><img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="Fortinet Certified Associate Cybersecurity" style="width:120px;height:120px;"></a>
+  <a href="https://www.credly.com/badges/2ecc4184-92cd-4b72-a367-3ca235f807fb"><img src="https://images.credly.com/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png" alt="Fortinet FortiGate 7.4 Operator" style="width:120px;height:120px;"></a>
+  <a href="https://www.credly.com/badges/8b822947-bb03-43e3-b2c3-37ae93ae55a8"><img src="https://images.credly.com/images/3d924691-436a-4fb6-b19b-1005ccbb6135/blob" alt="NVIDIA-Certified Associate: AI Infrastructure and Operations" style="width:120px;height:120px;"></a>
 </p>
 
 <h2 align='center'>
